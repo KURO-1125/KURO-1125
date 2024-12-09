@@ -2,6 +2,7 @@
 
 
 # 💫 About Me:
+<img align="right" alt="coding" width="315" height="215" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 👋 Hi, I’m @KURO-1125 (Deepanshu Yadav)<br>👀 I’m interested in Development<br>🌱 I’m currently learning JavaScript , HTML ,CSS and Java<br>💞️ I’m looking to collaborate on Open Source Projects<br>📫 How to reach me (mailto:ydeepu1125@gmail.com)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am Single.
 
 
@@ -20,5 +21,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KURO-1125&icon=0&color=8)](https://visitcount.itsvg.in)
+
+<img align-items="center" width="50%" src="https://wallpapers.com/images/hd/javascript-coding-codes-and-commands-3ragzh982pv5g1q7.webp">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
