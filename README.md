@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @KURO-1125 (Deepanshu Yadav)<br>👀 I’m interested in Development<br>🌱 I’m currently learning JavaScript , HTML ,CSS and Java<br>💞️ I’m looking to collaborate on Open Source Projects<br>📫 How to reach me (mailto:ydeepu1125@gmail.com)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am Indian.
+👋 Hi, I’m @KURO-1125 (Deepanshu Yadav)<br>👀 I’m interested in Development<br>🌱 I’m currently learning JavaScript , HTML ,CSS and Java<br>💞️ I’m looking to collaborate on Open Source Projects<br>📫 How to reach me (mailto:ydeepu1125@gmail.com)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am Single.
 
 
 ## 🌐 Socials:
