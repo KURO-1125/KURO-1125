@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning JavaScript , HTML ,CSS and Java
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me through my Email - ydeepu1125@gmail.com
+- 📫 How to reach me (mailto:ydeepu1125@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Indian.
 
