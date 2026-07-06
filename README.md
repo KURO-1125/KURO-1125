@@ -358,29 +358,17 @@ Currently, I'm focused on building AI systems, contributing to open source, and 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KURO-1125&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KURO-1125&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=KURO-1125&theme=tokyonight&hide_border=true"/>
 
-<br><br>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KURO-1125&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KURO-1125&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-<div align="center">
 
 ## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KURO-1125&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=KURO-1125&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KURO-1125&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
